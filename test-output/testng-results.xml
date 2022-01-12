@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T21:20:03 EST" name="Suite" finished-at="2022-01-11T21:21:00 EST" duration-ms="57024">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T21:20:03 EST" name="Test" finished-at="2022-01-11T21:21:00 EST" duration-ms="57024">
+      <class name="com.amazon.qa.tests.LinkPageTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:03 EST" name="setUP" finished-at="2022-01-11T21:20:16 EST" duration-ms="12941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="afterLoginTitle()[pri:1, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:16 EST" name="afterLoginTitle" finished-at="2022-01-11T21:20:16 EST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLoginTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:16 EST" name="tearDown" finished-at="2022-01-11T21:20:17 EST" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:17 EST" name="setUP" finished-at="2022-01-11T21:20:23 EST" duration-ms="5666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="verifyUsername()[pri:2, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:23 EST" name="verifyUsername" finished-at="2022-01-11T21:20:24 EST" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:24 EST" name="tearDown" finished-at="2022-01-11T21:20:25 EST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:25 EST" name="setUP" finished-at="2022-01-11T21:20:31 EST" duration-ms="6719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="clickOnAcc()[pri:3, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:31 EST" name="clickOnAcc" finished-at="2022-01-11T21:20:33 EST" duration-ms="1391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAcc -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:33 EST" name="tearDown" finished-at="2022-01-11T21:20:33 EST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:33 EST" name="setUP" finished-at="2022-01-11T21:20:40 EST" duration-ms="6181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="enterName()[pri:3, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:40 EST" name="enterName" finished-at="2022-01-11T21:20:40 EST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.LinkPageTest@272ed83b]" started-at="2022-01-11T21:20:40 EST" name="tearDown" finished-at="2022-01-11T21:20:40 EST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.tests.LinkPageTest -->
+      <class name="com.amazon.qa.tests.PageTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.PageTest@4d5b6aac]" started-at="2022-01-11T21:20:48 EST" name="setUP" finished-at="2022-01-11T21:20:53 EST" duration-ms="4350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="pageTitle()[pri:1, instance:com.amazon.qa.tests.PageTest@4d5b6aac]" started-at="2022-01-11T21:20:53 EST" name="pageTitle" finished-at="2022-01-11T21:20:53 EST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.PageTest@4d5b6aac]" started-at="2022-01-11T21:20:53 EST" name="tearDown" finished-at="2022-01-11T21:20:54 EST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.PageTest@4d5b6aac]" started-at="2022-01-11T21:20:54 EST" name="setUP" finished-at="2022-01-11T21:20:58 EST" duration-ms="4016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="loginTest()[pri:2, instance:com.amazon.qa.tests.PageTest@4d5b6aac]" started-at="2022-01-11T21:20:58 EST" name="loginTest" finished-at="2022-01-11T21:21:00 EST" duration-ms="2252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.PageTest@4d5b6aac]" started-at="2022-01-11T21:21:00 EST" name="tearDown" finished-at="2022-01-11T21:21:00 EST" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.tests.PageTest -->
+      <class name="com.amazon.qa.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.amazon.qa.tests.LoginPageTest@10d307f1]" started-at="2022-01-11T21:20:40 EST" name="setUP" finished-at="2022-01-11T21:20:48 EST" duration-ms="7169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="planDisplayVerifyTest()[pri:1, instance:com.amazon.qa.tests.LoginPageTest@10d307f1]" started-at="2022-01-11T21:20:48 EST" name="planDisplayVerifyTest" finished-at="2022-01-11T21:20:48 EST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planDisplayVerifyTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.tests.LoginPageTest@10d307f1]" started-at="2022-01-11T21:20:48 EST" name="tearDown" finished-at="2022-01-11T21:20:48 EST" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.tests.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

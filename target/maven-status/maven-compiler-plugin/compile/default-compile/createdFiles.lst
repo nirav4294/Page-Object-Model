@@ -1,0 +1,5 @@
+com\amazon\qa\pages\LoginPage.class
+com\amazon\qa\pages\LinkPage.class
+com\amazon\qa\utilities\TestUtil.class
+com\amazon\qa\pages\SignUp.class
+com\amazon\qa\base\TestBase.class

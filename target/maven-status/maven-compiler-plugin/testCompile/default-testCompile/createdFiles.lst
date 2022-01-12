@@ -1,0 +1,3 @@
+com\amazon\qa\tests\PageTest.class
+com\amazon\qa\tests\LinkPageTest.class
+com\amazon\qa\tests\LoginPageTest.class
